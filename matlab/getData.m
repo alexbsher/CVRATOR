@@ -40,6 +40,6 @@ for i = 1:numel(labels)
 end
 
 test = struct(f1, testlbl, f2, testdat);
-train = struct(f1, trainlbl, f2, testdat);
+train = struct(f1, trainlbl, f2, traindat);
 
 end
