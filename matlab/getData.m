@@ -1,7 +1,8 @@
 function [test, train] = getData(train_num, test_num, labels)
 % Get X training images from each label
 % Get Y testing images from each label
-
+% to do: convert labels to numbers!
+% 
 f1 = 'label';
 f2 = 'dat';
 testlbl = {};
