@@ -1,0 +1,2659 @@
+Air raid shelter	1
+Air to air missile	2
+Air to surface missile	3
+abdominal exercise device	4
+able minded	5
+aborigine	6
+above ground	7
+absolute sports event	8
+abused child	9
+abused woman	10
+academic professional	11
+accident	12
+accountant	13
+accounting use	14
+action	15
+action on object	16
+activity	17
+actor	18
+actor in movies	19
+actor in musicals	20
+actor in plays	21
+actor on tv	22
+actor voice	23
+address or speech	24
+administrative assistant	25
+administrative staff person	26
+administrator	27
+admiral rank	28
+adobe house	29
+adult animal	30
+adult female human	31
+adult male human	32
+adverse social action	33
+adverse weather area	34
+advertising campaign	35
+advocate	36
+aerobics	37
+aerosol can	38
+afloat on water	39
+agent	40
+agent generic	41
+agent non geographical	42
+agent now terminated	43
+agent partially tangible	44
+aggressor	45
+air breathing vertebrate	46
+air defense gun	47
+air defense system	48
+air defense weapon	49
+air heating device	50
+air raid shelter	51
+air to air missile	52
+air to surface missile	53
+air transportation event	54
+air transportation vehicle	55
+air vent system	56
+airborne	57
+airborne early warning aircraft	58
+aircraft cabin	59
+aircraft carrier	60
+aircraft interior	61
+aircraft landing and takeoff facility	62
+airplane	63
+airplane crash	64
+airplane flying	65
+airplane landing	66
+airplane takeoff	67
+airport control	68
+airport terminal	69
+alarm clock	70
+alarm device	71
+alien	72
+alive	73
+all	74
+all terrain vehicle	75
+alley	76
+altar	77
+altar boy	78
+alternate route	79
+ambassador	80
+ambulance	81
+ambulation	82
+amish	83
+amphibian	84
+amphibious assault ship	85
+amphibious vehicle	86
+amphibious warfare ship	87
+amplifier	88
+amusement park	89
+anchorperson	90
+angler	91
+animal	92
+animal activity	93
+animal blo	94
+animal body part	95
+animal body region	96
+animal cage	97
+animal container	98
+animal pen	99
+animal shelter	100
+animation cartoon	101
+answering machine	102
+antenna	103
+anti aircraft artillery	104
+anti aircraft gun	105
+anti aircraft weapon	106
+anti armor grenade	107
+anti armor mine	108
+anti armor weapon	109
+anti glare computer screen	110
+anti personnel mine	111
+anti personnel weapon	112
+anti radar missile	113
+anti ship cruise missile	114
+anti ship missile	115
+anti tank guided weapon	116
+anti tank weapon	117
+apartment	118
+apartment complex	119
+apartment unit	120
+appendage	121
+applying a force	122
+apprentice	123
+aquarium	124
+aquatic organism	125
+arachnid	126
+arboretum	127
+arcade	128
+archbishop	129
+architect	130
+area with some wind	131
+arillery	132
+arleigh burke class destroyer	133
+armed person	134
+armored command post carrier	135
+armored fighting vehicle	136
+armored recovery vehicle	137
+armored vehicle	138
+armored vehicle heavy	139
+armored vehicle light	140
+armory	141
+army group general rank	142
+arrangement of like objects	143
+arriving at aplace	144
+arsenal	145
+art gallery	146
+art object	147
+art studio	148
+arterial road	149
+arthropod	150
+articulate or eloquent	151
+artifact	152
+artifact communication	153
+artifact generic	154
+artifact human created	155
+artist	156
+artist performer	157
+asian citizen or subject	158
+asian person	159
+astronaut cosmonaut	160
+astronomer	161
+astronomical observatory building	162
+at least partially mental event	163
+at sea	164
+athlete	165
+athletic activity	166
+athletic trainer	167
+atomic bomb	168
+attached body part	169
+attack aircraft carrier	170
+attack helicopter	171
+attack submarine	172
+attempting	173
+audio amplifier component	174
+audio communicating	175
+audio equipment	176
+audio system	177
+audio system component	178
+audio tape player	179
+audio tape player recorder	180
+audio visual receiver	181
+authentication device	182
+author	183
+auto block heater	184
+auto carrier truck	185
+auto part	186
+automatic firearm	187
+automobile	188
+automobile battery	189
+automobile gasoline engine	190
+avalance	191
+awards ceremony	192
+back yard	193
+backhoe	194
+backpack	195
+backpacker	196
+bag	197
+baggage porter	198
+baker	199
+baking dish	200
+ball	201
+ballet dancer	202
+ballistic missile	203
+ballistic missile icbm	204
+ballistic missile intermediate range	205
+ballistic missile medium range	206
+ballistic missile mirv	207
+ballistic missile short range	208
+ballistic missile submarine launched	209
+balloonist	210
+ballroom	211
+bamboo covered region	212
+bank	213
+banker	214
+banquet hall	215
+bar building	216
+bar pub	217
+barge	218
+barn	219
+barometer	220
+barracks	221
+barren region	222
+barrier	223
+bartender	224
+baseball	225
+baseball cap	226
+baseball player	227
+basin	228
+basketball	229
+basketball player	230
+bath tub	231
+bathhouse	232
+bathroom	233
+battery charger	234
+battle	235
+battle cruiser	236
+battlefield	237
+battleship	238
+bay	239
+bazaar	240
+bbq grill	241
+beach	242
+beard	243
+beauty device	244
+beer can	245
+beggar	246
+bell boy	247
+bell tower	248
+bendable	249
+bicycle	250
+bicyclist	251
+bilateral object	252
+billboard	253
+biological bomb	254
+biological living object	255
+biological weapon	256
+biometric authentication device	257
+bios chip	258
+biped	259
+bird	260
+bishop	261
+black and white television	262
+bladed weapon	263
+blimp	264
+blinds	265
+blow dryer	266
+blue collar worker	267
+boardwalk	268
+boat	269
+boat ship	270
+boathouse	271
+body movement event	272
+body of water	273
+body of water generic	274
+bodyboard	275
+bodybuilder	276
+bog	277
+boiler room	278
+bomb	279
+bomber bombing	280
+bomber plane	281
+booth	282
+botanical garden	283
+bottle	284
+bowl	285
+bowl eating	286
+bowl generic	287
+bowling ball	288
+box the container	289
+box truck	290
+boxer	291
+boy	292
+boy scout	293
+bread maker	294
+bread pan	295
+bride	296
+bridge	297
+briefcase	298
+brigadier general rank	299
+broadleaf forest	300
+broker	301
+brothel	302
+brush	303
+bucket	304
+bucket elevator	305
+buddhist temple	306
+building	307
+building cluster	308
+building security system	309
+bull	310
+bull male herd animal	311
+bullet	312
+bus	313
+bus driver	314
+bus stop shelter	315
+bus terminal	316
+bush pilot	317
+bushy terrain	318
+business event	319
+business machine	320
+business person	321
+business related thing	322
+business route	323
+business traveller	324
+business woman	325
+businessman	326
+butcher	327
+butcher shop	328
+butler	329
+bypass route	330
+cabin dwelling	331
+cabinet	332
+cabinet piece of furniture	333
+cable descrambler	334
+cable modem	335
+cables	336
+cafe	337
+cafe place	338
+cafeteria	339
+cake pan	340
+calculator	341
+calendar	342
+camel	343
+camera	344
+campaign	345
+campaigning event	346
+campground	347
+campsite	348
+can	349
+canal	350
+canine animal	351
+canis genus	352
+cannery	353
+cannery factory	354
+cannon	355
+canoe	356
+canopy closure	357
+canopy closure open	358
+canyon	359
+capsule container	360
+captain rank	361
+car	362
+car crash	363
+car racing	364
+cardinal	365
+cargo airplane	366
+cargo helicopter	367
+carnivore	368
+carnivore order	369
+carpentry tool	370
+carry on luggage	371
+cart	372
+cart path	373
+casino	374
+cassette deck	375
+castle	376
+cat	377
+catholic person	378
+catholic priest	379
+cattle	380
+cattle domestic	381
+caucasian person	382
+cavity	383
+cavity interior	384
+cavity or container	385
+cavity with walls	386
+cd	387
+cd r drive	388
+cd rom drive	389
+cd rw drive	390
+cdplayer	391
+cdplayer audio component	392
+celebration or party	393
+celebrity	394
+celebrity entertainment	395
+celebrity political	396
+celestialevent	397
+cellar	398
+cellphone	399
+cement truck	400
+central processing unit	401
+cephalopod	402
+ceremony	403
+cetacean	404
+cfo managing director media manager etc	405
+champagne bottle	406
+chaplain	407
+chart	408
+chauffeur driver	409
+cheering	410
+cheerleader	411
+chemical plant facility	412
+chemical weapon	413
+chief minister	414
+chief minister head of government	415
+chief of staff	416
+chief warrant officer rank	417
+child	418
+chimney	419
+choir	420
+chordata phylum	421
+christian person	422
+church	423
+cigar boat	424
+circular wind system	425
+circus clown	426
+circus performer	427
+city	428
+cityscape	429
+civilian person	430
+clam	431
+classroom setting	432
+cleaning device	433
+clear weather area	434
+clearing	435
+cleric	436
+clerical worker	437
+cliff	438
+climate control device	439
+clipper ship	440
+clock	441
+clock radio	442
+clocktower	443
+close quarter combat weapon	444
+closet	445
+clothes dryer	446
+clothes iron	447
+clothes steamer	448
+clothes washer	449
+clothing	450
+clothing accessory	451
+clothing generic	452
+clothing item	453
+clothing or towel hook	454
+cloud	455
+cloudy area	456
+cloverleaf interchange	457
+clown	458
+coal fields	459
+coarse grained soil region	460
+cockpit	461
+coelomate	462
+coffee grinder	463
+coffee maker	464
+coffee shop	465
+cold temperature activity	466
+colin powell	467
+collectible	468
+collection display setting	469
+collector distributor road	470
+collector road	471
+college	472
+collision	473
+colonel rank	474
+color television	475
+comb for hair	476
+combattant	477
+comedian	478
+comedic actor	479
+command vehicle	480
+commemoration	481
+commentator studio expert	482
+commercial building	483
+commercial fisherman	484
+commercial fishing boat	485
+commercial organization	486
+commercial passenger airplane	487
+commissioned officer	488
+communicating	489
+communication act	490
+communication act single	491
+communication bus	492
+communication device	493
+communication vehicle	494
+communications facility	495
+communications tower	496
+communicator	497
+commuter train	498
+compact disc cover	499
+competition	500
+completely cloud covered area	501
+composite physical and mental event	502
+compressed gas tank	503
+computational system	504
+computer	505
+computer bag	506
+computer bitmap display	507
+computer board	508
+computer bus	509
+computer cable	510
+computer chassis	511
+computer cluster	512
+computer disk	513
+computer display	514
+computer display cable	515
+computer game controller	516
+computer hardware component	517
+computer hardware item	518
+computer impact printer	519
+computer information storage media	520
+computer input device	521
+computer interface device	522
+computer joystick	523
+computer keyboard	524
+computer main box	525
+computer memory	526
+computer memory board	527
+computer monitor	528
+computer monitor black and white	529
+computer monitor cable	530
+computer monitor color	531
+computer monitor video kind	532
+computer mother board	533
+computer mouse	534
+computer networking cable	535
+computer or television screen	536
+computer output device	537
+computer peripheral device	538
+computer port	539
+computer power supply	540
+computer printer	541
+computer printer dotmatrix	542
+computer printer inkjet	543
+computer printer laser	544
+computer printer led	545
+computer printer thermaltransfer	546
+computer processor	547
+computer sound box	548
+computer storage device	549
+computer terminal	550
+computer tv card	551
+computer workstation	552
+conducting medium	553
+conference room	554
+conflict event	555
+congressman	556
+conifer forest	557
+connected path system	558
+connector	559
+conscious activity	560
+construction	561
+construction artifact	562
+construction site	563
+construction worker	564
+consulate building	565
+consultant	566
+consumer audio video component	567
+contact location	568
+container	569
+container artifact	570
+container independent shaped thing	571
+container pressure barrier	572
+container shaped object	573
+contortionist	574
+control device	575
+control structure	576
+control structure physical	577
+control tower	578
+controlling aphysical device	579
+controlling something	580
+convent	581
+convent residence	582
+convention	583
+convention center	584
+convention meeting	585
+conventional weapon	586
+conversation	587
+convex thing	588
+conveyance	589
+conveying	590
+conveying generic	591
+cook chef	592
+cooking range	593
+cooking vessel	594
+cooler container	595
+cooling device	596
+cooling tower	597
+cooperation event	598
+cooperative residence	599
+coordinated body movement	600
+coral reef	601
+cord	602
+cordless telephone	603
+corporal rank	604
+corporate leader	605
+corrective glasses	606
+county sheriff	607
+couple	608
+court	609
+courthouse	610
+courtyard	611
+cover from direct fire	612
+cover from direct fire fair	613
+covered face	614
+covering	615
+covering object	616
+cow	617
+cowboy	618
+crab	619
+crane vehicle	620
+crayfish	621
+creation event	622
+creation or destruction event	623
+creek	624
+criminal	625
+crop covered region	626
+crowd	627
+cruise liner	628
+cruise missile	629
+cruise missile air launched	630
+cruise missile ground launched	631
+cruiser	632
+crustacean	633
+crying	634
+cul de	635
+cul de sac	636
+cultural event	637
+cultural thing	638
+cup	639
+current source	640
+customary system of links	641
+cutter	642
+cutting device	643
+cyclone as object	644
+cylinder	645
+dagger	646
+dam	647
+dancer	648
+dancing	649
+dangerous activity	650
+dangerous event	651
+dangerous situation	652
+dangerous tangible thing	653
+dangerous thing	654
+darkroom equipment	655
+data projector	656
+daytime	657
+dead animal	658
+dead body	659
+debate	660
+deceased	661
+decontamination truck	662
+decoration	663
+deep fryer	664
+defense system	665
+deformable	666
+delivery person	667
+delivery truck	668
+democratic national conventions	669
+demonstration car	670
+demonstration or protest	671
+demonstrator protester	672
+dental drill	673
+dental file	674
+dental tool	675
+dentist	676
+depot station	677
+depression	678
+depression topographical	679
+desert	680
+designer	681
+desk lamp	682
+desk worker	683
+desktop computer	684
+destroyer ship	685
+destruction event	686
+detached house	687
+detective	688
+device	689
+device externally powered	690
+device finishing arun	691
+device one time use	692
+device running	693
+device single user	694
+device starting arun	695
+device user controlled	696
+device user powered	697
+device with no moving parts	698
+diamond interchange	699
+digit	700
+digit anatomical part	701
+digital audio recorder	702
+digitizing tablet	703
+dinghy	704
+dining hall	705
+dining room	706
+diplomat	707
+direct fire weapon	708
+dirt bike	709
+dirt or gravel road	710
+dirty bomb	711
+disabled person	712
+disaster event	713
+disc	714
+disc jockey	715
+disc storage medium	716
+disco	717
+disembarking	718
+dish drying rack	719
+dishwasher	720
+dishwasher machine	721
+disk drive	722
+display stand	723
+display stand piece of furniture	724
+disposable product	725
+distance measuring device	726
+ditch	727
+diver	728
+divided path	729
+dock worker	730
+dog	731
+dolphin	732
+domestic cleaning tool	733
+domesticated animal	734
+donald rumsfeld	735
+donkey	736
+door signaling device	737
+doorman	738
+doorway	739
+doorway covering	740
+drawing	741
+drawing depiction	742
+dreadnought	743
+dresses	744
+drill	745
+drinking bottle	746
+drinking can	747
+drinking glass	748
+drinking vessel	749
+drive in theater	750
+driver	751
+driver transportation professional	752
+drug addict	753
+dry tropical forest	754
+dumbbell weight	755
+dump	756
+dump truck	757
+durable good	758
+dvd player	759
+earth moving vehicle	760
+earthquake	761
+east indian person	762
+eastern hemisphere person	763
+eater	764
+eating vessel	765
+eclipse	766
+ecological region	767
+edible stuff	768
+election campaign	769
+election campaign address	770
+election campaign convention	771
+election campaign debate	772
+election campaign greeting	773
+electric alarm clock	774
+electric can opener	775
+electric hair curler	776
+electric knife	777
+electric lamp	778
+electric mixer	779
+electric mixer beater	780
+electric shaver	781
+electric skillet	782
+electric toothbrush	783
+electric transformer	784
+electric wheelchair	785
+electrical component	786
+electrical conductor	787
+electrical connector	788
+electrical device	789
+electrical household appliance	790
+electrical lighting device	791
+electrical toaster	792
+electrical wire	793
+electro magnetic radiation sensor	794
+electromagnetic radiation	795
+electronic component	796
+electronic countermeasures vehicle	797
+electronic device	798
+electronic display device	799
+electronic equipment vehicle	800
+electronic household appliance	801
+elephant	802
+elevated	803
+elevator	804
+embassy	805
+embodied agent	806
+emergency	807
+emergency incident	808
+emergency medical response person	809
+emergency room	810
+emery board	811
+emission	812
+emitting sound	813
+empire state	814
+employee	815
+encountering something	816
+enduring thing	817
+engineer	818
+enlisted person	819
+ensemble	820
+entertainer	821
+entertainment event	822
+entertainment or arts professional	823
+entertainment or recreation organization	824
+entertainment performer	825
+environment	826
+environment generic	827
+equine animal	828
+espresso machine	829
+ethernet cable	830
+ethernet controller board	831
+ethernet port	832
+ethnic group of east indians	833
+eukaryotic organism	834
+eutheria	835
+event	836
+event localized	837
+event organized	838
+examining table	839
+excavation	840
+excavation hole	841
+exchange of opinion	842
+executive	843
+exiting a vehicle	844
+exiting car	845
+expansion card	846
+expansion slot	847
+explosion fire	848
+explosive device	849
+explosive device disposal device	850
+extended van	851
+external anatomical part	852
+external computer modem	853
+external part of building	854
+face	855
+facility	856
+facility construct	857
+facility generic	858
+factory	859
+factory building	860
+factory built home	861
+factory worker	862
+family group	863
+famous human	864
+famous individual	865
+fan	866
+fan electrical appliance	867
+farm	868
+farm building	869
+farm vehicle	870
+farmer	871
+fast frigate	872
+felidae family	873
+felis genus	874
+female anchor	875
+female animal	876
+female news subject	877
+female person	878
+female reporter	879
+fern	880
+ferry	881
+festival	882
+field	883
+field hockey stick	884
+fight	885
+fight physical	886
+fighter combat	887
+fighter plane	888
+fighting hole	889
+figure skater	890
+file cabinet	891
+file cabinet piece of furniture	892
+file sharing system	893
+file tool	894
+film	895
+film free sheet	896
+fine grained soil region	897
+finger	898
+fingerprint scanner	899
+fire alarm	900
+fire extinguisher	901
+fire fighting vehicle	902
+fire fighting vehicle military	903
+fire hose	904
+fire station	905
+fire truck	906
+firefighter	907
+firefighting	908
+firefighting equipment	909
+fireplace	910
+firewall	911
+firewall network	912
+firing squad	913
+first lady	914
+first lieutenant rank	915
+first sergeant rank	916
+fish	917
+fisherman	918
+fishhook	919
+fitness equipment	920
+fixed functional system	921
+fixed wing aircraft	922
+fjord	923
+flag	924
+flare pipe	925
+flat object	926
+flat panel display	927
+flat region	928
+flexible	929
+flight attendant	930
+flooded	931
+floor lamp	932
+floppy disk drive	933
+florist	934
+flow control device	935
+flow control structure	936
+flow path	937
+flow terrain	938
+flower	939
+flowering plant	940
+flue	941
+fluid conduit	942
+fluid reservoir	943
+flying object	944
+foggy area	945
+foldable	946
+food	947
+food blender	948
+food delivery person	949
+food drink and ingredients	950
+food or drink	951
+food or drink preparation device	952
+food processor	953
+food storage container	954
+food utensil	955
+food vessel	956
+food worker	957
+football	958
+football player	959
+football player american	960
+football player canadian	961
+foreign minister	962
+forest	963
+forest temperate	964
+forklift	965
+formula 1 race car	966
+fortune teller	967
+foundry	968
+foundry building	969
+fountain	970
+four lanes or wider roadway	971
+foxhole	972
+frame for picture or mirror	973
+free sheet	974
+free space content	975
+free standing structure	976
+freeway	977
+freezer	978
+freezing area	979
+freezing fog area	980
+freezing rain area	981
+freight train	982
+freighter	983
+frigate	984
+front and back sided object	985
+frontage road	986
+fuel powered device	987
+fuel tank truck	988
+full size car	989
+fully clothed	990
+functional system	991
+funeral	992
+furnace	993
+furniture	994
+fuse box	995
+galleon	996
+galley	997
+game event	998
+garbage disposal	999
+garbage truck	1000
+garden	1001
+garden hose	1002
+gardener	1003
+garment bag	1004
+gas can	1005
+gas field	1006
+gas tanker	1007
+gauge	1008
+geisha	1009
+general officer	1010
+general rank	1011
+generalized transfer	1012
+generation or conversion event	1013
+geographical agent	1014
+geographical region	1015
+geographical thing	1016
+geopolitical entity	1017
+george w bush	1018
+girl	1019
+glacier	1020
+glass container	1021
+glasses	1022
+glassware for kitchen	1023
+glider	1024
+go cart	1025
+golf	1026
+golf bag	1027
+golf caddy	1028
+golf cart	1029
+golf club	1030
+golf course	1031
+golf player	1032
+golfing area	1033
+government employee	1034
+government leader	1035
+government related entity	1036
+governmental building	1037
+graduate	1038
+grain elevator	1039
+grandfather	1040
+grandmother	1041
+grandparent	1042
+graph	1043
+graphic	1044
+grassland	1045
+grassy region	1046
+gravesite	1047
+graveyard	1048
+greenhouse	1049
+greeting	1050
+grenade	1051
+grenade launcher	1052
+groom	1053
+ground	1054
+ground combat	1055
+ground crew	1056
+ground to orbit vehicle	1057
+ground vehicle	1058
+grounds of organization	1059
+group	1060
+group activity	1061
+group of people	1062
+group of tangible things	1063
+group of three or more people	1064
+group of three to ten people	1065
+guard	1066
+guarding	1067
+guided ballistic missile	1068
+guided missile	1069
+guided missile cruiser	1070
+guided missile destroyer	1071
+guided missile frigate	1072
+gully	1073
+gun	1074
+gun cruiser	1075
+gun shot	1076
+gunnery sergeant rank	1077
+gusty area	1078
+gym	1079
+gym balance beam	1080
+gym horizontal bar	1081
+gym horse	1082
+gym parallel bars	1083
+gym pommel horse	1084
+gym rings	1085
+gym uneven bars	1086
+gymnasium facility	1087
+gymnast	1088
+gymnastics	1089
+gymnastics apparatus	1090
+habitat	1091
+hair brush	1092
+hair cutting razor	1093
+hair dryer	1094
+hairdresser	1095
+hammer	1096
+hammer for throwing	1097
+hand	1098
+hand geometry scanner	1099
+hand saw	1100
+hand tool	1101
+handgun	1102
+handshaking	1103
+hang glider	1104
+hangar	1105
+harbor	1106
+hard disk drive	1107
+hardware bus peripheral	1108
+hardware tool	1109
+harem	1110
+harming an agent	1111
+hat	1112
+having an ending	1113
+hazy area	1114
+hdtv set	1115
+head cover	1116
+head of government	1117
+head of state	1118
+headmaster principal	1119
+headscarf	1120
+health care technician	1121
+health inspector	1122
+health professional	1123
+heath	1124
+heating device	1125
+heavy forest	1126
+heavy industry facility	1127
+helicopter	1128
+helicopter carrier	1129
+helicopter cruiser	1130
+helicopter hovering	1131
+helmet	1132
+helping an agent	1133
+herbivore	1134
+herd animal	1135
+heterotroph	1136
+high jump bar	1137
+high plasticity soil region	1138
+high security facility	1139
+highway	1140
+highway interchange	1141
+highway ramp	1142
+hiker	1143
+hill	1144
+hindu	1145
+hindu temple	1146
+hippie	1147
+hispanic person	1148
+hockey	1149
+hockey player	1150
+hockey stick	1151
+hole making tool	1152
+hollow	1153
+hollow cylindrical object	1154
+home audio equipment	1155
+home audio receiver	1156
+home cd player	1157
+home office	1158
+home telephone	1159
+home video game machine	1160
+homeless person	1161
+homeless shelter	1162
+hominidae family	1163
+homo genus	1164
+homo sapiens	1165
+homogeneous structure	1166
+homogeneous texture	1167
+homosexual human	1168
+homosexual male	1169
+hood for stove	1170
+horizon	1171
+horse	1172
+horse donkey cart	1173
+hose	1174
+hospital	1175
+hospital interior	1176
+hostile social action	1177
+hot tub	1178
+hot water heater	1179
+hotel	1180
+hotel employee	1181
+hotel porter	1182
+house	1183
+house of worship	1184
+houseboat	1185
+household appliance	1186
+household attachment	1187
+housekeeper maid	1188
+housewife	1189
+hu jintao	1190
+human activity	1191
+human high occupancy construct	1192
+human occupation construct	1193
+human occupation construct object	1194
+human pre schoolage child	1195
+human preschooler	1196
+human scale object	1197
+human schoolage child	1198
+human shelter construction	1199
+human teenager	1200
+human teenager legally adult	1201
+human waste conversion device	1202
+human young adult	1203
+hunter	1204
+hurricane typhoon	1205
+hydroelectric power plant building	1206
+hydroelectric powerplant	1207
+hydrogen bomb	1208
+ice cream maker	1209
+ice cream man	1210
+ice cube maker	1211
+ice hockey stick	1212
+ice skating	1213
+icepick	1214
+iconic location	1215
+image input device	1216
+imam	1217
+immediate weather process	1218
+immigrant	1219
+implement	1220
+improvement event	1221
+in outer space	1222
+in public	1223
+inanimate object	1224
+inanimate object natural	1225
+inanimate object non natural	1226
+incendiary device	1227
+indian person	1228
+indirect fire weapon	1229
+individual	1230
+individual agent	1231
+indoor sports venue	1232
+indoors	1233
+indoors isolated from outside	1234
+industrial equipment	1235
+industrial setting	1236
+inert artifact	1237
+infant	1238
+infantry	1239
+inflatable boat	1240
+infographic	1241
+information bearing object	1242
+information bearing thing	1243
+information gathering device	1244
+information management use	1245
+information recording device	1246
+information storage device	1247
+information storage media	1248
+information store	1249
+information transfer event	1250
+information transfer physical event	1251
+infrastructure element	1252
+infrastructure product	1253
+inhaler device	1254
+inorganic soil region	1255
+insect	1256
+insignia	1257
+inspector	1258
+inspector professional	1259
+instrumental artifact	1260
+instrumental musician	1261
+insulated wire	1262
+insurance agent	1263
+insurgent	1264
+intangible	1265
+intangible existing thing	1266
+intangible individual	1267
+integrated circuit	1268
+intelligence agent	1269
+intelligence official	1270
+intelligent agent	1271
+intelligent agent activity	1272
+intermittent wetland region	1273
+internal combustion powered device	1274
+interstate highway	1275
+interviewee	1276
+intra building transportation device	1277
+invertebrate	1278
+involved in relationship	1279
+island	1280
+island region	1281
+jacques chirac	1282
+jail	1283
+japanese	1284
+javelin	1285
+jeep	1286
+jeep traditional	1287
+jetty	1288
+jew	1289
+jewelry box	1290
+jockey	1291
+john edwards	1292
+john kerry	1293
+jon boat	1294
+judge	1295
+judged sports event	1296
+judicial agent	1297
+junction of paths	1298
+jungle	1299
+junkyard	1300
+justice of the peace	1301
+juvenile animal	1302
+juvenile human	1303
+kayak	1304
+key ring	1305
+kinetic energy powered device	1306
+kitchen	1307
+kite	1308
+knife	1309
+korean	1310
+lab setting	1311
+lacrosse ball	1312
+lacrosse stick	1313
+ladle	1314
+lake	1315
+lance corporal rank	1316
+land body	1317
+land mass	1318
+land mine	1319
+land stuff	1320
+land topographical feature	1321
+land transportation event	1322
+land transportation vehicle	1323
+landed single residence unit	1324
+landing	1325
+landing aircraft	1326
+landing craft	1327
+landlines	1328
+landscape	1329
+laptop computer	1330
+large group	1331
+laser disc player	1332
+launcher	1333
+laundry room	1334
+law enforcement agent	1335
+lawn	1336
+lawyer	1337
+layered object	1338
+leader	1339
+learning	1340
+learning by doing	1341
+leaving aplace	1342
+lecture hall	1343
+leech	1344
+left and right sided object	1345
+leg	1346
+leg movement	1347
+legal agent	1348
+legal professional	1349
+legislator	1350
+lesbian	1351
+lethal weapon	1352
+library	1353
+license requiring activity	1354
+licensed	1355
+licensed professional	1356
+lieutenant colonel rank	1357
+lieutenant general rank	1358
+lifeguard	1359
+light	1360
+light aircraft carrier	1361
+light cruiser	1362
+light fixture	1363
+light forest	1364
+light frigate	1365
+light guided missile frigate	1366
+light ship	1367
+lighter than air craft	1368
+lighthouse	1369
+lighting device	1370
+lighting market category	1371
+limousine	1372
+linear object	1373
+linear object tangible	1374
+linear object three dimensional	1375
+lion tamer	1376
+liquid crystal display	1377
+literate agent	1378
+literate person	1379
+live bodypart	1380
+livestock carrier	1381
+living room	1382
+loading dock	1383
+lobby	1384
+lobster	1385
+local organization	1386
+local road	1387
+locale	1388
+location	1389
+locker	1390
+locomotion	1391
+locomotion event	1392
+locomotion event animal	1393
+locomotion process	1394
+locomotion process animal	1395
+locomotion solid surface	1396
+locomotion two legged	1397
+logo	1398
+long thin object	1399
+low lying wetland	1400
+low rider car	1401
+low rider road vehicle	1402
+lower class	1403
+lower middle class	1404
+luggage	1405
+lumberyard	1406
+luxury car	1407
+luxury item	1408
+machete	1409
+machine gun	1410
+magician	1411
+magnetic computer storage device	1412
+magnetic device	1413
+magnetic tape drive	1414
+mail box	1415
+mailing location	1416
+mainframe computer	1417
+maintenance vehicle	1418
+major general rank	1419
+major rank	1420
+major terrain feature	1421
+making musical sound	1422
+male anchor	1423
+male animal	1424
+male news subject	1425
+male person	1426
+male reporter	1427
+mammal	1428
+man in women's clothing	1429
+man made thing	1430
+man wearing a suit	1431
+manager	1432
+manatee	1433
+manger	1434
+mangrove swamp	1435
+manned spacecraft	1436
+mannequin	1437
+manufactured goods	1438
+manufactured home	1439
+manufacturing facility	1440
+manufacturing plant	1441
+maps	1442
+marina	1443
+marine	1444
+marine control tower	1445
+marine organism	1446
+market	1447
+marketplace	1448
+marketplace object	1449
+married	1450
+marsh	1451
+martial artist	1452
+mass communicating	1453
+master gunnery sergeant rank	1454
+master sergeant rank	1455
+matador bullfighter	1456
+material transporter	1457
+mathematician	1458
+mayor	1459
+meadow	1460
+measured sports event	1461
+measuring cup	1462
+measuring device	1463
+measuring spoon	1464
+meat grinder	1465
+mechanic	1466
+mechanical device	1467
+media playing device	1468
+media professional	1469
+medic	1470
+medical care provider	1471
+medical device	1472
+medical doctor	1473
+medical personnel	1474
+medicine bottle	1475
+mediterranean scrub	1476
+meeting	1477
+meeting space	1478
+member of parliament	1479
+mens clothing	1480
+mental situation	1481
+microphone	1482
+microwave	1483
+microwave oven	1484
+middle aged human	1485
+middle class	1486
+military	1487
+military agent	1488
+military aircraft	1489
+military airplane	1490
+military base	1491
+military building	1492
+military equipment	1493
+military event	1494
+military facility	1495
+military hardware	1496
+military land platform	1497
+military officer	1498
+military spacecraft	1499
+military submarine	1500
+military thing	1501
+military vehicle	1502
+military watercraft	1503
+military weapon	1504
+milkman	1505
+mime	1506
+minaret	1507
+mine	1508
+mined area	1509
+miner	1510
+mineral field	1511
+minicomputer	1512
+minister	1513
+minister diplomatic	1514
+minister governmental	1515
+minister of agriculture	1516
+minister of defense	1517
+minister of education	1518
+minister of energy	1519
+minister of intelligence	1520
+minister of interior	1521
+minister of state	1522
+minister of state head of government	1523
+minister religious	1524
+minivan	1525
+minority person	1526
+mint	1527
+mint factory	1528
+missile	1529
+missile armed craft	1530
+missile launcher	1531
+missile launcher indirect	1532
+missile system	1533
+missile system offensive	1534
+missile watercraft	1535
+misty area	1536
+mixture	1537
+mob	1538
+mobile home	1539
+modem	1540
+modern human residence	1541
+modern naval ship	1542
+modern shelter construction	1543
+mollusk	1544
+monastery	1545
+monastery residence	1546
+monsoon forest	1547
+monument	1548
+moonlight	1549
+moor	1550
+mooring dolphin	1551
+mop	1552
+morally fallible	1553
+more than one person	1554
+mosque	1555
+mother	1556
+motion	1557
+motion solid against solid	1558
+motor scooter	1559
+motorboat	1560
+motorcycle	1561
+motorcyclist	1562
+mountable transporter	1563
+mountain	1564
+mouse button	1565
+mouse port	1566
+movement	1567
+movement event	1568
+movement or shape change event	1569
+movement process	1570
+movement translation event	1571
+movement translation process	1572
+movie theater space	1573
+moving all legs	1574
+mud	1575
+mud flat	1576
+muddy area	1577
+mudslide	1578
+muffin pan	1579
+mufti	1580
+mug	1581
+mullah	1582
+multi conductor insulated wire	1583
+multi directional communication	1584
+multi family housing	1585
+multi individual agent	1586
+multi individual agent intelligent	1587
+multi level building	1588
+multi passenger transportation device	1589
+multi person agent	1590
+multi purpose device	1591
+multi role aircraft	1592
+multi room unit	1593
+multicellular organism	1594
+multiple doer action	1595
+multiple performer action	1596
+multiple user computer	1597
+mummified remains	1598
+mummy	1599
+municipality	1600
+muscle powered device	1601
+museum	1602
+music hall	1603
+music performance agent	1604
+music performance organization	1605
+musician	1606
+muslim	1607
+nail clippers	1608
+nail file	1609
+napalm	1610
+nascar	1611
+national convention	1612
+national flag	1613
+national government employee	1614
+national parkway	1615
+national parkway nps	1616
+native american	1617
+natural disaster	1618
+natural elevation	1619
+natural hazard	1620
+natural obstacle	1621
+natural region	1622
+natural tangible stuff	1623
+natural thing	1624
+naval yard	1625
+needle	1626
+neighborhood	1627
+network hub	1628
+network logo	1629
+networking hardware	1630
+new auto dealer parts market category	1631
+newborn animal	1632
+newborn baby	1633
+news show host	1634
+newscaster	1635
+newspaper	1636
+nighttime	1637
+non	1638
+non airplane flying object	1639
+non commissioned officer	1640
+non human animal	1641
+non natural thing	1642
+non person animal	1643
+non powered device	1644
+non uniformed fighter	1645
+non us national flag	1646
+north american citizen or subject	1647
+noses	1648
+not very round object	1649
+nuclear aircraft carrier	1650
+nuclear biological or chemical weapon	1651
+nuclear bomb	1652
+nuclear guided missile cruiser	1653
+nuclear power plant building	1654
+nuclear powered device	1655
+nuclear powerplant	1656
+nuclear reactor cooling tower	1657
+nuclear related material	1658
+nuclear related thing	1659
+nuclear warhead	1660
+nuclear weapon	1661
+nuclear weapon tactical	1662
+nursery lamp	1663
+object	1664
+object afloat	1665
+object supporting furniture	1666
+object with use	1667
+observation tower	1668
+observatory	1669
+obstacle	1670
+obstacle system	1671
+obstacle system military	1672
+obstruction	1673
+obstruction construction artifact	1674
+ocean	1675
+ocean liner	1676
+off road automobile	1677
+office	1678
+office building	1679
+office furniture	1680
+officer in organization	1681
+oil drilling site	1682
+oil field	1683
+oil rig	1684
+oil tanker	1685
+omnivore	1686
+one lane roadway	1687
+opaque	1688
+open area	1689
+open space content	1690
+opera house	1691
+opera singer	1692
+optical disk	1693
+optical drive	1694
+optician	1695
+orchard forest	1696
+organic material	1697
+organic soil region	1698
+organism	1699
+organism part	1700
+organism whole	1701
+organization	1702
+organization of people only	1703
+organization representative	1704
+organization with clients	1705
+organization with individual clients	1706
+organization with individual customers	1707
+otoscope	1708
+outdoor activity	1709
+outdoor recreation area	1710
+outdoor sports event	1711
+outdoors	1712
+outdoors exposed to weather	1713
+outer space	1714
+outlet box	1715
+oven	1716
+over snow vehicle	1717
+overhead projector	1718
+oyster	1719
+pachyderm	1720
+package	1721
+padded	1722
+pager	1723
+painter	1724
+palace grand building	1725
+palmtop computer	1726
+parachute	1727
+parachutist paratrooper	1728
+parade	1729
+parallel computer cable	1730
+parallel port	1731
+park	1732
+parking garage	1733
+parking lot	1734
+parliament building	1735
+part of an hsc	1736
+part of building	1737
+part of building above ground floor	1738
+part of room in aconstruction	1739
+partially intangible	1740
+partially intangible individual	1741
+partially tangible	1742
+partially tangible product	1743
+passenger aircraft	1744
+passenger airplane	1745
+passenger compartment	1746
+passenger train	1747
+path	1748
+path artifact	1749
+path artifact system	1750
+path customary	1751
+path for wheeled vehicles	1752
+path generic	1753
+path info transfer	1754
+path simple	1755
+path spatial	1756
+path system	1757
+patrol boat	1758
+paved	1759
+paved path	1760
+paved roadway	1761
+pavillion	1762
+peacekeeper	1763
+peat soil region	1764
+pedal boat	1765
+pedestrian zone	1766
+people associated with manual labor	1767
+people crying	1768
+people marching	1769
+people of mixed descent	1770
+pepper shaker	1771
+perceptual agent	1772
+perceptual agent embodied	1773
+performing art activity	1774
+performing in front of group	1775
+periodically flooded region	1776
+perma frost region	1777
+person	1778
+person assembly area	1779
+person assembly room	1780
+person associated with agriculture	1781
+person associated with commercial activities	1782
+person associated with entertainment and sports	1783
+person associated with military activities	1784
+person associated with politics and government	1785
+person associated with religion	1786
+person associated with transportation	1787
+person of african descent	1788
+person supporting object	1789
+person wearing a dress	1790
+person wearing something	1791
+person wearing sunglasses	1792
+person with computer	1793
+person with occupation	1794
+person with physiological condition	1795
+person with sex organs covered	1796
+personal computer	1797
+personal product	1798
+phone answering machine combo	1799
+phonebooth	1800
+photograph	1801
+photographer	1802
+physical barrier	1803
+physical contact event	1804
+physical contact location	1805
+physical contact making event	1806
+physical contact situation	1807
+physical creation event	1808
+physical creation or destruction event	1809
+physical destruction event	1810
+physical device	1811
+physical event	1812
+physical impact buffer	1813
+physical memory	1814
+physical part of object	1815
+physical situation	1816
+pianist	1817
+pickup truck	1818
+picnic	1819
+picnic area	1820
+pie pan	1821
+pilgrim	1822
+pilot	1823
+pipe	1824
+pipe generic conduit	1825
+pipeline	1826
+pipes	1827
+pirate	1828
+pit	1829
+place	1830
+place non agent	1831
+plain	1832
+plain topographical	1833
+plant	1834
+plant blo	1835
+plant woody	1836
+plastic bag	1837
+plastic film	1838
+platform	1839
+platform military	1840
+playa	1841
+playground	1842
+playhouse clubhouse	1843
+playing	1844
+playing agame	1845
+pleasant weather area	1846
+plumbing fixture	1847
+pointy ended	1848
+police	1849
+police car	1850
+police facility	1851
+police station	1852
+police truck	1853
+political convention	1854
+political debate	1855
+political event	1856
+political rally	1857
+politician	1858
+politics	1859
+poly dimensional thing	1860
+pond	1861
+pool hall	1862
+pope	1863
+porch	1864
+port	1865
+portable object	1866
+portable television	1867
+portal	1868
+portal covering	1869
+position input device	1870
+positive dimensional thing	1871
+post office	1872
+post office building	1873
+postal delivery man	1874
+pounding driving implement	1875
+powder dispenser	1876
+power plant	1877
+power plant building	1878
+power sander	1879
+power saw	1880
+power supply	1881
+power tool	1882
+power transmission line tower	1883
+powered device	1884
+powerlines	1885
+practicing	1886
+practicing preparing	1887
+prairie	1888
+pre pubescent human	1889
+pregnant woman	1890
+president	1891
+press conference	1892
+priest	1893
+primate	1894
+prime minister	1895
+prime minister head of government	1896
+primitive weapon	1897
+prisoner	1898
+private first class rank	1899
+private plane	1900
+private rank	1901
+processing plant	1902
+producing musical sound	1903
+product	1904
+professional	1905
+professional adult	1906
+professional sports event	1907
+professor	1908
+program logo	1909
+project	1910
+projectile	1911
+projectile device	1912
+projectile launcher	1913
+projectile launcher indirect	1914
+projectile shell assembly	1915
+projectile weapon	1916
+projectile weapon fired	1917
+projectile weapon or launcher	1918
+promotional event	1919
+propaganda campaign	1920
+property	1921
+prosecutor	1922
+protective attire	1923
+protective covering	1924
+protective equipment	1925
+protective equipment human	1926
+protective system	1927
+protrusion	1928
+proximity triggered weapon	1929
+pubescent human	1930
+public debate	1931
+public official	1932
+public property	1933
+public sector employee	1934
+public transportation device	1935
+punk rocker	1936
+purposeful action	1937
+purposeful physical action	1938
+pylon	1939
+quadruped	1940
+quarry	1941
+rabbi	1942
+race car	1943
+racetrack	1944
+racing sports event	1945
+radar	1946
+radially symmetric object	1947
+radiator hose	1948
+radio	1949
+radio observatory	1950
+radio personality	1951
+radio receiver	1952
+radio station	1953
+radio station place	1954
+radiological explosive weapon	1955
+radome	1956
+raft	1957
+raid vehicle	1958
+rail control tower	1959
+railroad	1960
+railroad crossing	1961
+railway transportation device	1962
+rain storm as object	1963
+rainy area	1964
+ram	1965
+ram disk	1966
+ranch	1967
+razor	1968
+real estate	1969
+rear admiral rank	1970
+receiver	1971
+receiver audio component	1972
+reconnaissance aircraft	1973
+reconnaissance device	1974
+reconnaissance helicopter	1975
+reconnaissance plane	1976
+reconnaissance vehicle	1977
+record player	1978
+recreational activity	1979
+referee	1980
+reformatory	1981
+refrigerated storage device	1982
+refrigerator	1983
+refrigerator freezer	1984
+refugee	1985
+regular oven	1986
+religious building	1987
+religious leader	1988
+religious person	1989
+rental car	1990
+repairable product	1991
+reporter	1992
+reptile	1993
+republican national conventions	1994
+rescue	1995
+rescue helicopter	1996
+rescue vehicle	1997
+rescue worker	1998
+researcher	1999
+residence	2000
+residential buildings	2001
+restaurant	2002
+retail organization	2003
+retail store	2004
+retinal pattern scanner	2005
+rice cooker	2006
+riding lawn mower	2007
+rifle	2008
+rigid portable object	2009
+riot	2010
+rioter	2011
+ritual	2012
+river	2013
+river bank	2014
+river boat	2015
+road	2016
+road block	2017
+road overpass	2018
+road roller	2019
+road traffic	2020
+road underpass	2021
+road vehicle	2022
+road vehicle armed with bomb	2023
+road vehicle diesel engine	2024
+road vehicle gasoline engine	2025
+road vehicle internal combustion engine	2026
+road vehicle passenger compartment	2027
+roadway junction	2028
+roaster oven	2029
+roasting pan	2030
+robbery	2031
+rock musician	2032
+rocket launching	2033
+rocket plane	2034
+rocket propelled transportation device	2035
+rockets in a box	2036
+rocky ground	2037
+rod	2038
+rod shaped object	2039
+rolling grassland	2040
+roof	2041
+room in aconstruction	2042
+room of house	2043
+rotary wing aircraft	2044
+round object	2045
+router	2046
+router network	2047
+rowboat	2048
+rowing shell	2049
+royalty	2050
+rpg	2051
+rubble strewn area	2052
+rugged terrain	2053
+ruins	2054
+ruminant	2055
+running	2056
+runway	2057
+rural area	2058
+rv	2059
+saddam hussein	2060
+safe container	2061
+sailboard	2062
+sailboat	2063
+sailing ship	2064
+sailing vessel	2065
+sailor	2066
+sales clerk	2067
+sales or service related company	2068
+sales person	2069
+salt marsh	2070
+salt shaker	2071
+sanatoriums	2072
+sandy area	2073
+sandy desert	2074
+santa claus	2075
+satellite facility	2076
+satellite tv receiver	2077
+savannah	2078
+scalpel	2079
+scanner	2080
+scanner optical	2081
+scene	2082
+scenic roadway	2083
+school	2084
+schooner	2085
+scientific computing use	2086
+scientist	2087
+scout	2088
+scout member of scouting organization	2089
+scrubby vegetation region	2090
+scsi cable	2091
+scull	2092
+sculptor	2093
+sculpture	2094
+sculpture in the round	2095
+sea mammal	2096
+seating device	2097
+second lieutenant rank	2098
+security checkpoint	2099
+security device	2100
+self powered device	2101
+self powered projectile	2102
+selling organization	2103
+semi trailer	2104
+semi trailer truck	2105
+semiconductor device	2106
+senator	2107
+seniors elderly	2108
+sensor	2109
+sensor device	2110
+sensory event	2111
+sentient	2112
+sentient animal	2113
+septic tank	2114
+sergeant first class rank	2115
+sergeant major of the corps rank	2116
+sergeant major rank	2117
+sergeant rank	2118
+serial computer cable	2119
+serial port	2120
+service event	2121
+serving bowl	2122
+serving tray	2123
+serving vessel	2124
+sewage infrastructure	2125
+sexually mature	2126
+shadows (localized spatial things)	2127
+shaft	2128
+shaker dispenser	2129
+shaped object	2130
+shaping tool	2131
+shear legs	2132
+shed	2133
+sheet of some stuff	2134
+shellfish	2135
+shelter construction	2136
+shelter facility	2137
+sheltering artifact	2138
+sheriffs deputy	2139
+ship	2140
+ship captain	2141
+shipyard dockyard	2142
+shoe brush	2143
+shoehorn	2144
+shooting	2145
+shopper	2146
+shopping center	2147
+shopping center object	2148
+shopping mall	2149
+shoreline	2150
+shot put shot	2151
+shotgun	2152
+shower head	2153
+showroom	2154
+shrimp	2155
+sick person patient	2156
+sidearm	2157
+sidewalk	2158
+signature dynamics monitor	2159
+silhouette	2160
+silo	2161
+simply connected thing	2162
+singer	2163
+singing	2164
+single doer action	2165
+single family home	2166
+single purpose device	2167
+single site organization	2168
+single user computer	2169
+situation	2170
+situation localized	2171
+skateboarder	2172
+skater	2173
+skating	2174
+skeleton	2175
+sketch	2176
+ski area	2177
+ski slope	2178
+ski sports area	2179
+skiing	2180
+skilled person	2181
+skilled worker	2182
+skillet	2183
+skull	2184
+sky	2185
+skyscraper	2186
+sleety area	2187
+slide projector	2188
+sliding	2189
+sliding generic	2190
+sliding low friction	2191
+slingshot	2192
+sloop	2193
+slope	2194
+slope topographical	2195
+slow cooker	2196
+small arm	2197
+small arm weapon	2198
+small group	2199
+small town	2200
+smoggy area	2201
+smoke	2202
+smoke alarm	2203
+smoke stack	2204
+smoker	2205
+smoky area	2206
+smoky work environment	2207
+smooth	2208
+snow	2209
+snow covered area	2210
+snow ski	2211
+snow skier	2212
+snowmobile	2213
+snowy area	2214
+soccer	2215
+soccer player	2216
+sociability based action	2217
+social being	2218
+social environment	2219
+social gathering	2220
+social occurrence	2221
+social ritual	2222
+soda can	2223
+soft terrain	2224
+soldier	2225
+soldier firing	2226
+soldier in uniform	2227
+soldier patrol	2228
+soldiers drilling	2229
+solid surface path through air	2230
+solid tangible artifact	2231
+solid tangible thing	2232
+something existing	2233
+something to wear	2234
+sound card	2235
+spa	2236
+space heater	2237
+space in afixed hoc	2238
+space in ahoc	2239
+space platform	2240
+space platform manned	2241
+space region	2242
+space shuttle	2243
+space shuttle landing	2244
+spacecraft	2245
+spatial thing	2246
+spatial thing localized	2247
+spatially continuous thing	2248
+speaker at podium	2249
+speaking	2250
+speaking to camera	2251
+spear	2252
+special purpose vehicle	2253
+spectator at organized event	2254
+speculum	2255
+speedboat	2256
+spider hole	2257
+spiritual leader	2258
+spoken communicating	2259
+spokesperson	2260
+spoon	2261
+sport utility vehicle	2262
+sports	2263
+sports car	2264
+sports coach	2265
+sports competition	2266
+sports equipment	2267
+sports event	2268
+sports fan	2269
+sports playing area	2270
+sports pounding driving implement	2271
+sports stick	2272
+sports track	2273
+spraying device	2274
+sprinkler	2275
+spy plane	2276
+square rigger	2277
+stable	2278
+stable structure	2279
+stadium	2280
+staff sergeant rank	2281
+stage	2282
+stage performer	2283
+stand up comedian	2284
+star convex thing	2285
+state capitol building	2286
+state comptroller	2287
+state governor	2288
+state route	2289
+state route major	2290
+state route minor	2291
+state route primary	2292
+stationary artifact	2293
+statue	2294
+steak knife	2295
+steam electric power generation complex	2296
+steel mill worker	2297
+steeple	2298
+stemware	2299
+steppe	2300
+still image	2301
+still image source	2302
+stock exchange	2303
+stock market	2304
+storage construct	2305
+storage construct in abuilding	2306
+storage facility	2307
+storage roll core	2308
+storage tank	2309
+storage tower	2310
+storm	2311
+stormy area	2312
+stove top cooking pot	2313
+straight	2314
+straight body truck	2315
+stream	2316
+street	2317
+street battle	2318
+street bike	2319
+street performer	2320
+street private	2321
+street residential	2322
+street sign	2323
+street vendor	2324
+students schoolkids	2325
+studio setting	2326
+submarine	2327
+subtropical forest	2328
+suburban	2329
+subway station	2330
+subway train	2331
+suitcase	2332
+sunglasses	2333
+sunny area	2334
+supercomputer	2335
+superintendent	2336
+superintendent police	2337
+supervisor	2338
+support surface	2339
+support vehicle	2340
+surface on tangible object	2341
+surface region	2342
+surface region bounded	2343
+surface region finite	2344
+surface region tangible	2345
+surface to air missile	2346
+surface to surface missile	2347
+surface to surface missile ballistic	2348
+surface to surface missile launcher	2349
+surface transportation event	2350
+surfboard	2351
+surgeon	2352
+swamp	2353
+swimmer	2354
+swimming pool	2355
+switch	2356
+switch network	2357
+switchblade	2358
+sword	2359
+symbolic object	2360
+symbolic thing	2361
+synagogue	2362
+system	2363
+system of devices	2364
+table	2365
+table lamp	2366
+table piece of furniture	2367
+tachometer	2368
+tactical line	2369
+tactical terrain object	2370
+tae kwon do practitioner	2371
+taiga	2372
+tailor	2373
+take off	2374
+take off flight	2375
+taking a photograph	2376
+taking care of something	2377
+talk show host	2378
+talking	2379
+tall ship	2380
+tame animal	2381
+tank	2382
+tanker	2383
+tanker truck	2384
+tannery	2385
+taxi cab	2386
+taxi driver	2387
+teacher	2388
+team organized group)	2389
+tear gas	2390
+technician	2391
+technology	2392
+technology artifact	2393
+teenager	2394
+telephone	2395
+telephone cord	2396
+television set	2397
+television tower	2398
+temporal thing	2399
+temporally continuous thing	2400
+temporally existing thing	2401
+temporally extended thing	2402
+tennis	2403
+tennis ball	2404
+tennis player	2405
+tennis racket	2406
+tent	2407
+terrain high ground	2408
+terrain low ground	2409
+terrestrial organism	2410
+terrorist	2411
+thatched roof building	2412
+theater	2413
+theist	2414
+thermal power generation complex	2415
+thermos	2416
+thing	2417
+three dimensional thing	2418
+three lanes or wider roadway	2419
+throwing	2420
+thunderstorm as object	2421
+tie	2422
+timing light	2423
+toaster oven	2424
+toddler	2425
+toilet bowl	2426
+toilet brush	2427
+toilet tank	2428
+toll booth	2429
+toll road	2430
+tongue depressor	2431
+tony blair	2432
+tool	2433
+toothbrush	2434
+top and bottom sided object	2435
+topographical feature	2436
+tornado	2437
+torpedo	2438
+tour bus	2439
+tow missile	2440
+tower	2441
+town	2442
+town hall	2443
+town square	2444
+townhouse	2445
+tracked vehicle	2446
+tracked vehicle armored	2447
+tractor	2448
+tractor combine	2449
+trade worker	2450
+traffic cop	2451
+traffic light	2452
+trailer	2453
+train	2454
+train car	2455
+train engine	2456
+train station	2457
+train transportation device	2458
+transfer in	2459
+transfer out	2460
+translation	2461
+translation along asurface	2462
+translation complete	2463
+translation location change	2464
+translation single trajectory	2465
+translocation	2466
+transport aircraft	2467
+transport facility	2468
+transport helicopter	2469
+transport involving adriver	2470
+transport with motorized land vehicle	2471
+transportation container product	2472
+transportation device	2473
+transportation device unmanned	2474
+transportation event	2475
+transporter crash	2476
+transporting people	2477
+trash bag	2478
+trash compactor	2479
+trash compactor household	2480
+trash container	2481
+travel accessory	2482
+traveller	2483
+trawler	2484
+tray	2485
+tree	2486
+tribal chief	2487
+troop transport vehicle	2488
+tropical setting	2489
+truck	2490
+truck route	2491
+truck tractor	2492
+true fish	2493
+tub	2494
+tube	2495
+tube tangible	2496
+tugboat	2497
+tundra	2498
+tunnel	2499
+turban	2500
+turban headdress	2501
+tv show host	2502
+twilight	2503
+two lane roadway	2504
+two lanes or wider roadway	2505
+two or three lanes roadway	2506
+two terminal electrical device	2507
+two wheeled motorized vehicle	2508
+uav	2509
+un building	2510
+underground	2511
+underpass	2512
+underwater	2513
+underwater object or location	2514
+united states person	2515
+united states president	2516
+unmanned aircraft	2517
+unmarried	2518
+upper middle class	2519
+urban park	2520
+urban setting	2521
+us flag	2522
+us highway route	2523
+us highway route major	2524
+us highway route minor	2525
+us interstate system route	2526
+us presidential debate	2527
+us secretary of defense	2528
+us secretary of homeland security	2529
+us vice presidential debate	2530
+usb computer cable	2531
+user triggered weapon	2532
+using a device	2533
+using an object	2534
+vacationer tourist	2535
+vacuum cleaner	2536
+vacuum dust bag	2537
+valley	2538
+van	2539
+vandal	2540
+vegetable matter	2541
+vegetation	2542
+vehicle	2543
+vehicle barrier	2544
+vehicle part	2545
+vehicle storage construct	2546
+vending stand	2547
+vendor	2548
+vermin	2549
+vertebrate	2550
+vertical protrusion	2551
+vertical protrusion topographical	2552
+veterinarian	2553
+viaduct	2554
+vibration through amedium sensor	2555
+vice admiral rank	2556
+vice president	2557
+vice president government official	2558
+video camera	2559
+video cassette recorder	2560
+video game system	2561
+vineyard	2562
+viny area	2563
+violent action	2564
+violent collision	2565
+virgin	2566
+visible light	2567
+visual artist	2568
+visual image	2569
+visual information bearing thing	2570
+visual information recording device	2571
+viviparous animal	2572
+vocal ensemble	2573
+volcano	2574
+volleyball ball	2575
+voltmeter	2576
+volume measuring device	2577
+voluntary body movement	2578
+voter	2579
+waiter waitress	2580
+walking	2581
+walking generic	2582
+walking on two legs	2583
+walking running	2584
+wallet	2585
+warehouse	2586
+warhead	2587
+warhead high explosive anti tank	2588
+warplane	2589
+warrant officer	2590
+warrant officer rank	2591
+waste conversion device	2592
+wastebasket	2593
+water cooling device	2594
+water main	2595
+water platform	2596
+water platform subsurface	2597
+water tank	2598
+water tower	2599
+water transportation device	2600
+water transportation vehicle	2601
+water well	2602
+watercourse	2603
+watercraft	2604
+watercraft small	2605
+watercraft surface	2606
+waterway	2607
+wave propagation	2608
+waxed paper	2609
+weapon	2610
+weapon of mass destruction	2611
+weapon system	2612
+weapons guidance system	2613
+weapons targeting system	2614
+weather event	2615
+weight	2616
+weight non powered device	2617
+well	2618
+western hemisphere person	2619
+wetlands	2620
+whale	2621
+wheeled transportation device	2622
+white house	2623
+wild animal	2624
+wilderness area	2625
+wind powered device	2626
+wind powerplant	2627
+windmill	2628
+window	2629
+window covering	2630
+window curtain	2631
+window shade	2632
+windstorm as object	2633
+windsurfer	2634
+windsurfer person	2635
+windy area	2636
+wine bottle	2637
+wine cask	2638
+wine glass	2639
+winter sport activity	2640
+wire	2641
+wireless communication device	2642
+wooded area	2643
+wooden buildings	2644
+woodworking tool	2645
+work environment	2646
+work station	2647
+worker laborer	2648
+workplace	2649
+world leader	2650
+wrecker truck	2651
+wrestler	2652
+writer	2653
+writing surface product	2654
+yard	2655
+yard building grounds	2656
+yasser arafat	2657
+young human	2658
+zoo	2659

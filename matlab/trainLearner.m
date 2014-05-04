@@ -23,6 +23,9 @@ function [ svm_struct ] = trainLearner( num_train, num_test, labels )
     outputs = svmpredict(test_labs, testData, svm_struct);
     
     confusion_mat = confusionmat(test_labs, outputs)
-    dis_labels
+    for i=1:length(dis_labels)
+        dis_labels{i}
+        topClassemes(trainData(find(train_labs == i), :));
+    end
 end
 
