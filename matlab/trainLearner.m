@@ -12,9 +12,6 @@ function [ svm_struct ] = trainLearner( num_train, num_test, labels )
     labels = [1:num_test:size(testData, 1)];
     dis_labels = testLabels(labels);
     
-    train_labels = [1:num_train:size(trainData, 1)];
-    train_dis_labels = trainLabels(train_labels);
-    
     test_labs = cellfun(@(x) find(ismember(dis_labels, x)), testLabels);
     train_labs = cellfun(@(x) find(ismember(dis_labels, x)), trainLabels);
     
