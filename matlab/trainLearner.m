@@ -1,4 +1,4 @@
-function [ svm_struct ] = trainLearner( num_train, num_test, labels )
+function [ svm_struct, testDat ] = trainLearner( num_train, num_test, labels )
 
     addpath('./libsvm-3.18/matlab/')
 
