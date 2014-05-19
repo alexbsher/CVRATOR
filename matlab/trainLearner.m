@@ -1,13 +1,30 @@
-function [ svm_struct, testDat ] = trainLearner( num_train, num_test, labels )
+function [ svm_struct, testDat, dis_labels, outputs ] = trainLearner( num_train, num_test, labels )
 
     addpath('./libsvm-3.18/matlab/')
-
-    [testDat, trainDat] = getData(num_train, num_test, labels);
+    load dict_and_filt
+    
+    [testDat, trainDat, labels] = getData(num_train, num_test, labels);
     
     testData = [testDat.dat]';
+    testData = [testData, zeros(size(testData, 1), 600)];
     trainData = [trainDat.dat]';
+    trainData = [trainData, zeros(size(trainData, 1), 600)];
     testLabels = {testDat.label}';
     trainLabels = {trainDat.label}';
+    
+    for i=1:numel(trainDat)
+        disp(['proccesing image ... ', trainDat(i).path]);
+        wordmap = getVisualWords(getImage(trainDat(i).path), filterbank, dictionary);
+        feats = getImageFeatures(wordmap, 600);
+        trainData(i, end-599:end) = feats;
+    end
+    
+    for i=1:numel(testDat)
+        disp(['proccesing image ... ', trainDat(i).path]);
+        wordmap = getVisualWords(getImage(testDat(i).path), filterbank, dictionary);
+        feats = getImageFeatures(wordmap, 600);
+        testData(i, end-599:end) = feats;
+    end
     
     labels = [1:num_test:size(testData, 1)];
     dis_labels = testLabels(labels);

@@ -7,34 +7,49 @@ testNum = 25;
 
 labels = getLabels();
 
-[test, train, labels] = getData(trainNum, testNum, {labels{1:end-1}});
+% [svm, test, labels] = trainLearner(trainNum, testNum, {labels{1:end-1}});
+load svm_learner
 
 idx  = randperm(numel(test));
 
-C = zeros(numel(labels));
+C_U = zeros(numel(labels));
+C_S = zeros(numel(labels));
 
-for i=1:5
+for i=1:numel(test)
     j = idx(i);
     clc;
     displayLabels(labels);
     disp('Enter Guess...');
     % Show image for five seconds
-    imshow(getImage(test(j).path));
+    img = getImage(test(j).path);
+    if img == -1
+        continue
+    end
+    imshow(img);
     result = input('>> ');
 
-    pause(1);
+    pause(0);
    
     disp(['You Guessed: ',labels{result}])
-    pause(1);
-    sguess = 1;
-    disp(['SVM Guessed: ',labels{sguess}]);
-    pause(1);
+%     pause(1);
+    sguess = svm_output_labels(j);
+    disp(['Algorithm Guessed: ',labels{sguess}]);
+%     pause(1);
     
     disp(['Correct Answer: ',test(j).label]);
-    pause(1)
+    pause(0)
     
-    C(result, find(not(cellfun('isempty', strfind(labels,test(j).label))))) = C(result, find(not(cellfun('isempty', strfind(labels,test(j).label))))) + 1;
-end
+    C_U(result, find(not(cellfun('isempty', strfind(labels,test(j).label))))) = C_U(result, find(not(cellfun('isempty', strfind(labels,test(j).label))))) + 1;
+    C_S(svm_output_labels(j), find(not(cellfun('isempty', strfind(labels,test(j).label))))) = C_S(svm_output_labels(j), find(not(cellfun('isempty', strfind(labels,test(j).label))))) + 1;
 
-C
-accuracy = trace(C) / (sum(sum(C)))
+    accuracy = trace(C_U) / (sum(sum(C_U)))
+    pause(1)
+end
+disp('User Conf Matrix')
+C_U
+disp('User Accuracy')
+accuracy = trace(C_U) / (sum(sum(C_U)))
+disp('SVM Conf Matrix')
+C_S
+disp('SVM Accuracy')
+accuracy = trace(C_S) / (sum(sum(C_S)))

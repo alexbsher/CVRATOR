@@ -6,7 +6,7 @@ function [ filter_bank, dictionary ] = getFilterBankAndDictionary( image_names )
 filter_bank = createFilterBank();
 
 % Params for use in this function:
-alpha = 3000;
+alpha = 150;
 K = 600;
 
 % alpha*T x 3*F matrix for storing output

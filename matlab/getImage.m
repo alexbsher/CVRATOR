@@ -2,8 +2,8 @@ function [ img ] = getImage( path )
 %UNTITLED2 Summary of this function goes here
 %   Detailed explanation goes here
 
-    extensions = {'.gif','.jpg','.jpeg','.png','.bmp','.tif'};
-    
+    extensions = {'.gif','.jpg','.jpeg','.png','.bmp','.tif', '.JPG'};
+    img = -1;
 
     for i = 1:numel(extensions)
         p = strrep(path, '_classemes.dat',extensions{i});
